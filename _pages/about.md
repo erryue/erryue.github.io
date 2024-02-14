@@ -20,4 +20,4 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/editing-talk.png){: .align-right width="300px"}
