@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a fourth year PhD candidate in the College of Computer Science and technology at Zhejiang University, advised by [Prof. Xiangdong Li] (https://person.zju.edu.cn/en/andolxli/).
+Hi! I am a fourth year PhD candidate in the College of Computer Science and technology at Zhejiang University, advised by [Prof. Xiangdong Li](https://person.zju.edu.cn/en/andolxli/).
 
 A data-driven personal website
 ======
