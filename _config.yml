@@ -85,9 +85,11 @@ author:
   bio              : "Ph.D. candidate in Zhejiang Universiy"
   location         : "Hangzhou, China"
   employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "klyin[at]zju.edu.cn"
+  CV               : /files/paper1.pdf
+  last update      : "Feb 2024"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
